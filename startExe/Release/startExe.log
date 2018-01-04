@@ -1,0 +1,54 @@
+﻿  stdafx.cpp
+D:\2015\VC\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  D:\2015\VC\atlmfc\include\afx.h(33): note: 参见“MBCS_Support_Deprecated_In_MFC”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.rh(19): warning C4005: “RT_MANIFEST”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(253): note: 参见“RT_MANIFEST”的前一个定义
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.rh(20): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(254): note: 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.rh(21): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(255): note: 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.rh(22): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(256): note: 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.rh(23): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(257): note: 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.rh(24): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(258): note: 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+  startExe.cpp
+  startExeDlg.cpp
+  MyMd5.cpp
+D:\2015\VC\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  D:\2015\VC\atlmfc\include\afx.h(33): note: 参见“MBCS_Support_Deprecated_In_MFC”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.rh(19): warning C4005: “RT_MANIFEST”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(253): note: 参见“RT_MANIFEST”的前一个定义
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.rh(20): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(254): note: 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.rh(21): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(255): note: 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.rh(22): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(256): note: 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.rh(23): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(257): note: 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.rh(24): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(258): note: 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+verity\MyMd5.cpp(140): warning C4244: “参数”: 从“std::streamsize”转换到“std::size_t”，可能丢失数据
+  MyVerify.cpp
+D:\2015\VC\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  D:\2015\VC\atlmfc\include\afx.h(33): note: 参见“MBCS_Support_Deprecated_In_MFC”的声明
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.rh(19): warning C4005: “RT_MANIFEST”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(253): note: 参见“RT_MANIFEST”的前一个定义
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.rh(20): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(254): note: 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.rh(21): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(255): note: 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.rh(22): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(256): note: 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.rh(23): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(257): note: 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.rh(24): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h(258): note: 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+verity\MyVerify.cpp(128): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+  正在生成代码
+  All 580 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  startExe.vcxproj -> E:\润泰茂成工作整理\软件加密\startPro\Release\startExe.exe
+  startExe.vcxproj -> E:\润泰茂成工作整理\软件加密\startPro\Release\startExe.pdb (Full PDB)
